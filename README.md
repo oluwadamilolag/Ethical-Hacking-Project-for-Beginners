@@ -24,7 +24,7 @@ Learn how to use John the Ripper to crack password hashes. This project covers b
 - **Key Topics:** Password Cracking, John the Ripper, Hash Analysis
 - **Tools:** Kali Linux, John the Ripper
 
-### 4. [Deploying and Monitoring a Honeypot with Cowrie](https://github.com/0xrajneesh/Ethical-Hacking-Projects-for-beginners/blob/main/project-4-Deploying-and-Monitoring-a-Honeypot-with-Cowrie-on-Kali-Linux.md)
+### 4. <a href="https://github.com/oluwadamilolag/Project-1-Scanning-and-Enumerating-a-Local-Network-with-Nmap.md" /></a>Deploying and Monitoring a Honeypot with Cowrie<br>
 Deploy and monitor a honeypot using Cowrie. This project covers setting up Cowrie, simulating attacks, monitoring logs, and analyzing captured data.
 
 - **Key Topics:** Honeypot Deployment, Intrusion Monitoring, Cowrie
